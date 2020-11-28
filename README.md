@@ -9,7 +9,7 @@
 * Calculated correlation coefficient
 * Plotted scatter plot and geographical scatter plot
 
-Example NBA:
+## Example NBA:
 
 ![](https://github.com/janS95/major_4_us_sports/blob/main/images/nba_map.png)
 
